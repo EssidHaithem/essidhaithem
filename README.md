@@ -484,34 +484,6 @@ ULT · Groupe Bouebdelli University · Tunis, Tunisia
 | German | Conversational level |
 
 ---
-
-## Testimonials
-
-### Nivine Mussa  
-**Founder & CEO at Bambinosit · Manager at Moovjee Tunisia · Business Consultant**
-
-> I would like to express my deep gratitude to Haithem Essid, our CTO at Bambinosit, for his outstanding dedication and expertise. He has consistently demonstrated exceptional technical skills, solving complex challenges and driving our platform’s growth.
-
----
-
-### Ulrich Calmo  
-**Prevention and Safety Trainer · HVAC Engineering Consultant**
-
-> Un professionnel d’exception, toujours engagé et rigoureux dans son travail. Sa capacité à comprendre les besoins, à proposer des solutions pertinentes et à maintenir une excellente communication a largement contribué au succès de notre collaboration.
-
----
-
-### Aurélie Benoit  
-**Founder of CFA BTP AOGUYANE**
-
-> Un formateur pédagogue et investi, qui a su transmettre ses compétences avec clarté et efficacité à nos stagiaires. Son professionnalisme et sa capacité à instaurer une relation de confiance ont largement contribué à leur progression et à la réussite de cette session de formation.
-
----
-
-<br>
-
----
-
 <br>
 
 ## Featured Projects
